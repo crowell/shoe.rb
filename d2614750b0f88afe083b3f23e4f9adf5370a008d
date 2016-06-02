@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_cb42da0e",
+        "filename": "shoe.rb",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1002291
+      },
+      "writtenOn": "2016-06-02T19:31:23Z",
+      "side": 1,
+      "message": "lgtm",
+      "revId": "d2614750b0f88afe083b3f23e4f9adf5370a008d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
