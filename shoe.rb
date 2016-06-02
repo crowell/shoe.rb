@@ -28,7 +28,7 @@ class Shoe < TCPSocket
 		# doesn't work with ruby 1.8.x or lower
 		buf = ""
 		begin
-			timeout(secs) do
+			Timeout.timeout(secs) do
 				loop {
 					buf << self.recv(1)
 				}
